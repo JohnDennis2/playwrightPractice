@@ -1,0 +1,17 @@
+{
+  "name": "playwrightpractice",
+  "version": "1.0.0",
+  "description": "This is a practice repo for the testing automation program Playwright",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.45.1",
+    "@types/node": "^20.14.10"
+  }
+}
